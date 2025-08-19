@@ -1,3 +1,3 @@
 # new-project
-This is my first Github repository
+This is my first Github repository.
 Author - Avanti Karams
